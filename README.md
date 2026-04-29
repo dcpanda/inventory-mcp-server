@@ -54,3 +54,6 @@ Use a **Resource** when you want to provide a "document" or a "snapshot" of data
 ## Testing with MCP Inspector
 
 You can test this server using the [MCP Inspector](https://github.com/modelcontextprotocol/inspector):
+```bash
+npx @modelcontextprotocol/inspector
+```
